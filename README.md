@@ -1,2 +1,2 @@
-# InvenMania_First_Ideas
+# InvenMania First Ideas
 Some ideas for InvenMania
